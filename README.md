@@ -1,1 +1,1 @@
-I am a freshman studying computer engineering at Bilkent University :)
+I am a sophomore studying computer engineering at Bilkent University :)
